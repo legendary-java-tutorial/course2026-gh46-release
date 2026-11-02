@@ -1,0 +1,13 @@
+{
+  "name": "translit",
+  "version": "1.0.0",
+  "description": "Транслитерация кириллицы латиницей",
+  "type": "module",
+  "main": "dist/index.js",
+  "files": ["dist"],
+  "scripts": {
+    "build": "node scripts/build.js",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
